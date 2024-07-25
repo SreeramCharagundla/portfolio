@@ -28,7 +28,7 @@ const Portfolio = () => {
           </div>
           <span className="secondaryText">
             <a
-              href="https://github.com/sowri19"
+              href="https://github.com/SreeramCharagundla"
               target="_blank"
               rel="noopener noreferrer"
             >

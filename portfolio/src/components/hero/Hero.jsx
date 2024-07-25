@@ -22,7 +22,7 @@ const Hero = () => {
 
             Hey There,
             <br />
-            I'm Sowri.
+            I'm Sreeram.
           </motion.span>
 
           <motion.span 
@@ -43,14 +43,14 @@ const Hero = () => {
           src="./memoji.png" alt="" />
         </motion.div>
 
-        <a className={css.email} href="mailto:korturti.s@northeastern.edu">
-        korturti.s@northeastern.edu
+        <a className={css.email} href="mailto:charagundla.s@northeastern.edu">
+        charagundla.s@northeastern.edu
         </a>
 
         {/* Lower Elements */}
         <div className={css.lowerElements}>
         <motion.div variants={fadeIn("right", "tween", 0.3, 1)} className={css.experience}>
-            <div className="primaryText">3</div>
+            <div className="primaryText">2</div>
             <div className="secondaryText">
               <div>Years</div>
               <div>Experience</div>

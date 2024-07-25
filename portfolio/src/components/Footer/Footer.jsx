@@ -40,70 +40,70 @@ const Footer = () => {
           </span>
           <span className="secondaryText">
             <a
-              href="https://www.linkedin.com/in/sowri-sampath/"
+              href="https://www.linkedin.com/in/sreeramcharagundla/"
               target="_blank"
               rel="noopener noreferrer"
             >
               <FontAwesomeIcon icon={faLinkedin} />
             </a>
             <a
-              href="https://telegram.org/sowriiii"
+              href="https://t.me/+17085131828"
               target="_blank"
               rel="noopener noreferrer"
             >
               <FontAwesomeIcon icon={faTelegram} />
             </a>
             <a
-              href="https://twitter.com/sowriiii"
+              href="https://x.com/_sreeramc_"
               target="_blank"
               rel="noopener noreferrer"
             >
               <FontAwesomeIcon icon={faTwitter} />
             </a>
             <a
-              href="https://www.snapchat.com/sowriiii"
+              href="https://www.snapchat.com/add/sreeram.98?src=QR_CODE"
               target="_blank"
               rel="noopener noreferrer"
             >
               <FontAwesomeIcon icon={faSnapchat} />
             </a>
             <a
-              href="https://discord.com/sowri#8753"
+              href="https://discord.com/Sreeram#7283"
               target="_blank"
               rel="noopener noreferrer"
             >
               <FontAwesomeIcon icon={faDiscord} />
             </a>
             <a
-              href="https://www.instagram.com/sowriiii"
+              href="https://www.instagram.com/sreeram__"
               target="_blank"
               rel="noopener noreferrer"
             >
               <FontAwesomeIcon icon={faInstagram} />
             </a>
             <a
-              href="https://www.facebook.com/sowriiii"
+              href="https://www.facebook.com/sreeram.1234/"
               target="_blank"
               rel="noopener noreferrer"
             >
               <FontAwesomeIcon icon={faFacebook} />
             </a>
             <a
-              href="https://stackoverflow.com/users/21299419/sowri"
+              href="https://stackoverflow.com/users/13405910/sreeram"
               target="_blank"
               rel="noopener noreferrer"
             >
               <FontAwesomeIcon icon={faStackOverflow} />
             </a>
             <a
-              href="https://medium.com/@sowri1219"
+              href="https://medium.com/@sreeramcharagundla_15990"
               target="_blank"
               rel="noopener noreferrer"
             >
               <FontAwesomeIcon icon={faMedium} />
             </a>
             <a
-              href="https://github.com/sowri19"
+              href="https://github.com/SreeramCharagundla"
               target="_blank"
               rel="noopener noreferrer"
             >

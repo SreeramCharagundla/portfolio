@@ -25,7 +25,7 @@ Modal View Controller
 
 ## Installation and setup instructions:
 
-Clone the git repository by using `git clone git@github.com:Sowri19/portfolio.git` command in your terminal.
+Clone the git repository by using `git clone https://github.com/SreeramCharagundla/portfolio.git` command in your terminal.
 
 Open the cloned folder in your favorite code editor.
 
@@ -56,7 +56,7 @@ Build the project using `npm run build or yarn build` command in your terminal.
 
 Deploy the project using `firebase deploy` command in your terminal.
 
-The webapp is available in the following url: https://sowrii.web.app/
+The webapp is available in the following url: toDo
 
 ### cloudflare pages (hosting):
 
@@ -66,7 +66,7 @@ I have used the `yarn build` to build the project.
 
 I have then dragged and dropped the dist folder in the cloudflare pages.
 
-The webapp is available in the following url: https://sowri.pages.dev/
+The webapp is available in the following url: toDo
 
 ## Git commands:
 

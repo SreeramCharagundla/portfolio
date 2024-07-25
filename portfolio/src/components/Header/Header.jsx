@@ -27,7 +27,7 @@ const Header = () => {
       style={{boxShadow: headerShadow}}
     >
       <div className={`innerWidth ${css.container} flexCenter`}>
-        <div className={css.name}>Sowri</div>
+        <div className={css.name}>Sreeram</div>
         <ul
           className={`flexCenter ${css.menu}`}
           ref={menuRef}
@@ -37,11 +37,11 @@ const Header = () => {
           <li><a href="#work">Experience</a></li>
           <li><a href="#portfolio">Portfolio</a></li>
           <li>
-  <a href="https://drive.google.com/drive/u/0/folders/1Wemzp10d6EFTTqXTPuyTcIpsUpMuUSgZ" target="_blank" rel="noopener noreferrer">Resume</a>
+  <a href="https://drive.google.com/file/d/1jFyvi_ngFHPXALLn9beRqkkZq3tesOUD/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a>
 </li>
 
           <li className={`flexCenter ${css.phone}`}>
-            <p>+1 (857) 381 1427</p>
+            <p>+1 (708) 513 1828</p>
             <BiPhoneCall size={"40px"} />
           </li>
         </ul>
