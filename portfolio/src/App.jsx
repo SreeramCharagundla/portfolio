@@ -1,6 +1,6 @@
 import Header from "./components/Header/Header";
 import css from "./styles/app.module.scss";
-import Hero from "./components/hero/hero";
+import Hero from "./components/hero/Hero";
 import Experties from "./components/Experties/Experties";
 import Works from "./components/Works/Works";
 import Portfolio from "./components/Portfolio/Portfolio";
