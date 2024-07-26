@@ -23,46 +23,25 @@ export const projectExperience = [
 ];
 
 export const WhatDoIHelp = [
-  "I specialize in full-stack development, creating scalable digital products that enhance business operations.",
-  "My expertise includes designing user-centric interfaces and developing robust backend systems using technologies like Next.js, Node/Spring, and AWS.",
+  "As a Software Engineer, I specialize in full-stack development, creating scalable digital products that enhance business operations. I help businesses streamline their processes by developing robust, efficient software solutions tailored to their unique needs.",
+  "My expertise includes designing user-centric interfaces and developing robust backend systems using technologies like the MEAN/MERN stack, Spring Boot, REST APIs, Kafka, SQL/NoSQL databases, and deploying on cloud platforms such as AWS, Azure, and GCP.",
 ];
 
 export const workExp = [
   {
-    place: "WaveWise LLC, MA, USA",
-    tenure: "January 2024 - April 2024",
+    place: "Northeastern University, MA, USA",
+    tenure: "January 2023 - Present",
+    role: "Teaching Assistant",
+    detail:
+      "course - Design Patterns; Led interactive coding sessions and resolved conceptual queries for 60+ students, ensuring adherence to Design Patterns and Best Practices in Object Oriented Programming using Java",
+  },
+  {
+    place: "Infosys Limited, Hyderabad, India",
+    tenure: "January 2021 - December 2022",
     role: "Software Engineer",
     detail:
-      "Designed and implemented the UI/UX of the 'WaveWise' Webapp using Next.js, TypeScript, and Redux. Managed the Node.js backend and integrated AWS services for a serverless CI/CD pipeline, ensuring system scalability and reliability.",
-  },
-  {
-    place: "CareWallet Inc, MA, USA",
-    tenure: "August 2023 - April 2024",
-    role: "Full Stack Engineer",
-    detail:
-      "Led the development of a HIPAA compliant React Native app, enhancing UI/UX and backend systems using AWS technologies, and improved CI/CD processes, achieving high system availability and reduced release cycles.",
-  },
-  {
-    place: "Diall Inc, CA, USA",
-    tenure: "September 2023 - December 2023",
-    role: "Full Stack Engineer",
-    detail:
-      "Enhanced app performance and developed a significant portion of the UI for a Next.js web app. Implemented advanced data scraping and analytics integration, significantly boosting user engagement.",
-  },
-  {
-    place: "Fingertipzz, Hyderabad, TS, India",
-    tenure: "September 2020 - December 2021",
-    role: "Full Stack Engineer",
-    detail:
-      "Led the development of a multivendor e-commerce app and platform, integrating various payment and mapping services, which significantly increased online payments and user traffic.",
-  },
-  {
-    place: "Amazon, Hyderabad, TS, India",
-    tenure: "September 2019 - September 2020",
-    role: "Transaction Risk Investigator",
-    detail:
-      "Analyzed transaction risks and implemented security measures, significantly reducing financial losses and enhancing compliance with major financial regulations.",
-  },
+      "Engineered a tax filing portal for the Government of India using SQL, RESTful APIs, Spring Boot, Hibernate, and Kafka. Designed a scalable Spring Batch application and architected a Kafka-driven data pipeline to optimize data retrieval and real-time processing, reducing filing times and enhancing data entry accuracy for 950M+ taxpayers.",
+  }
 ];
 
 export const comments = [

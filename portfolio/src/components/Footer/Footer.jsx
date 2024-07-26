@@ -36,7 +36,7 @@ const Footer = () => {
             amazing together.
           </span>
           <span className="primaryText">
-            Start by <a href="mailto:korturti.s@northeastern.edu">saying hi</a>
+            Start by <a href="mailto:charagundla.s@northeastern.edu">saying hi</a>
           </span>
           <span className="secondaryText">
             <a

@@ -20,17 +20,17 @@ const Hero = () => {
           variants={fadeIn("right","tween", 0.2, 1 )}
           className="primaryText">
 
-            Hey There,
+            Hi There,
             <br />
             I'm Sreeram.
           </motion.span>
 
           <motion.span 
           variants={fadeIn("left","tween", 0.4, 1 )}
-          className="secondaryText">
-            I design beautiful simple
+          className="ternaryText">
+            Fueled by caffeine and driven by code,
             <br />
-            things, And I love what i do{" "}
+            I turn complex problems into simple solutions{" "}
           </motion.span>
 
         </div>
@@ -39,7 +39,7 @@ const Hero = () => {
         variants={fadeIn("up","tween", 0.3, 1 )}
         className={css.person}>
           <motion.img 
-          variants={fadeIn("up","tween", 0.5, 1.3 )}
+          variants={fadeIn("up","tween", 0.4, 1.2 )}
           src="./memoji.png" alt="" />
         </motion.div>
 
@@ -50,17 +50,16 @@ const Hero = () => {
         {/* Lower Elements */}
         <div className={css.lowerElements}>
         <motion.div variants={fadeIn("right", "tween", 0.3, 1)} className={css.experience}>
-            <div className="primaryText">2</div>
+            <div className="primaryText">2+</div>
             <div className="secondaryText">
-              <div>Years</div>
-              <div>Experience</div>
+              <div>Years Experience</div>
             </div>
           </motion.div>
 
           <motion.div variants={fadeIn("left", "tween", 0.5, 1)} className={css.certificate}>
             <img src="./certificate.png" alt="" />
-            <span>CERTIFIED PROFESSIONAL</span>
-            <span>Web Developer</span>
+            <span>Software Engineer</span>
+            <span> </span>
           </motion.div>
         </div>
       </motion.div>

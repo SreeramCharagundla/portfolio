@@ -120,6 +120,15 @@
   font-size: 1.3rem;
   font-weight: 500
 }
+.ternaryText {
+  @media (max-width: $sm) {
+    font-size: 0.8rem;
+    line-height: 40px;
+  }
+  line-height: 45px;
+  font-size: 1.2rem;
+  font-weight: 500
+}
 .anchor {
   display: block;
   position: relative;

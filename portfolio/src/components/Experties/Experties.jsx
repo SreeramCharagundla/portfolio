@@ -37,12 +37,12 @@ const Experties = () => {
             <motion.div
             variants={textVariant(0.5)}
             className={css.rightSide}>
-                <span className='primaryText'>What do I help? </span>
+                <span className='primaryText'>How do I add value? </span>
                 {WhatDoIHelp.map((paragraph, i)=> <span className='secondaryText' key={i}>{paragraph}</span>)}
                 <div className={`flexCenter ${css.stats}`}>
                     <div className={`flexCenter ${css.stat}`}>
-                        <span className='primaryText'>10+</span>
-                        <span className='secondaryText'>Project Completed</span>
+                        <span className='primaryText'>8+</span>
+                        <span className='secondaryText'>Projects Completed</span>
                     </div>
                     <div className={`flexCenter ${css.stat}`}>
                         <span className='primaryText'>3+</span>
