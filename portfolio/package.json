@@ -2,7 +2,7 @@
   "name": "personal-portfolio-2",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://sreeramcharagundla.github.io/portfolio",
+  "homepage": "https://sreeramcharagundla.github.io/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
