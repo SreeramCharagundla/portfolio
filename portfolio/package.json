@@ -5,8 +5,8 @@
   "homepage": "https://sreeramcharagundla.github.io/portfolio",
   "type": "module",
   "scripts": {
-    "predeploy": "cd portfolio && npm run build",
-    "deploy": "gh-pages -d portfolio/build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "cd portfolio && vite build && vite preview",
     "dev": "vite",
     "build": "vite build",
