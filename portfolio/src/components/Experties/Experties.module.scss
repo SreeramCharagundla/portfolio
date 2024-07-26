@@ -1,7 +1,8 @@
 @import '../../styles/contants.scss';
 
 .wrapper {
-    background: white;
+    // background: white;
+    background: #ede1d4;
 
     .container {
         align-items: flex-start;
@@ -19,7 +20,7 @@
             .exp {
                 display: flex;
                 align-items: center;
-                border: 1px solid $secondary-white;
+                border: 0px solid $secondary-white;
                 border-radius: 20px;
                 padding: 1.5rem;
                 gap: 2rem;
