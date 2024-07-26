@@ -13,7 +13,13 @@
        .name{
         font-size: 1.5rem;
         font-weight: 500;
-       }
+        .photo {
+            width: 100px; // Adjust size as needed
+            height: 100px; // Adjust size as needed
+            border-radius: 50%; // Makes the image circular
+            object-fit: cover; // Ensures the image covers the entire area
+        }
+    }
        .menu{
 
         @media (max-width: $sm),

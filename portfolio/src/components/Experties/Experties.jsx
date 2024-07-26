@@ -32,7 +32,6 @@ const Experties = () => {
                 }
             </div>
 
-
             {/* right side */}
             <motion.div
             variants={textVariant(0.5)}

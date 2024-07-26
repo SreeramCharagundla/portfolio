@@ -112,6 +112,11 @@ const Footer = () => {
           </span>
         </div>
 
+        {/* middle section with photo */}
+        <div className={css.middle}>
+                <img src="./photo.png" alt="My Photo" className={css.photo}/>
+            </div>
+
         <div className={css.right}>
           <div className={css.info}>
             <span className="secondaryText">Information</span>
