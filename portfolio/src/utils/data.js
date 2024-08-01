@@ -30,7 +30,7 @@ export const WhatDoIHelp = [
 export const workExp = [
   {
     place: "Northeastern University, MA, USA",
-    tenure: "January 2023 - Present",
+    tenure: "May 2024 - Present",
     role: "Teaching Assistant",
     detail:
       "course - Design Patterns; Led interactive coding sessions and resolved conceptual queries for 60+ students, ensuring adherence to Design Patterns and Best Practices in Object Oriented Programming using Java",
