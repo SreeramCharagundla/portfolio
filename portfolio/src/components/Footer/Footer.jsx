@@ -32,7 +32,7 @@ const Footer = () => {
       >
         <div className={css.left}>
           <span className="primaryText">
-            Let's make something <br />
+            Let's build something <br />
             amazing together.
           </span>
           <span className="primaryText">
@@ -114,7 +114,7 @@ const Footer = () => {
 
         {/* middle section with photo */}
         <div className={css.middle}>
-                <img src="./photo.png" alt="My Photo" className={css.photo}/>
+                <img src="./photo.jpg" alt="My Photo" className={css.photo}/>
             </div>
 
         <div className={css.right}>
@@ -123,10 +123,6 @@ const Footer = () => {
             <p>29 Lambert st, Boston, MA 02119, USA</p>
           </div>
           <ul className={css.menu}>
-            <li>Services</li>
-            <li>Works</li>
-            <li>Notes</li>
-            <li>Experience</li>
           </ul>
         </div>
       </motion.div>

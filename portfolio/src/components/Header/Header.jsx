@@ -28,7 +28,7 @@ const Header = () => {
     >
       <div className={`innerWidth ${css.container} flexCenter`}>
       <div className={css.name}>
-          <img src="./dp.jpg" alt="My Photo" className={css.photo}/>
+          <img src="./dp.png" alt="My Photo" className={css.photo}/>
         </div>
         <ul
           className={`flexCenter ${css.menu}`}
