@@ -120,7 +120,7 @@ const Footer = () => {
         <div className={css.right}>
           <div className={css.info}>
             <span className="secondaryText">Address</span>
-            <p>29 Lambert st, Boston, MA 02119, USA</p>
+            <p>Boston, MA</p>
           </div>
           <ul className={css.menu}>
           </ul>
