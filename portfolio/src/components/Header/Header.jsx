@@ -42,10 +42,10 @@ const Header = () => {
   <a href="https://drive.google.com/file/d/17b3_Zk79__nX5Iv9tL3mIpRdHNwIkkSv/view" target="_blank" rel="noopener noreferrer">Resume</a>
 </li>
 
-          <li className={`flexCenter ${css.phone}`}>
+          {/* <li className={`flexCenter ${css.phone}`}>
             <p>+1 (708) 513 1828</p>
             <BiPhoneCall size={"40px"} />
-          </li>
+          </li> */}
         </ul>
 
         {/* for medium and small screens */}
