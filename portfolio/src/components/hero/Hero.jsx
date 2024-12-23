@@ -43,8 +43,8 @@ const Hero = () => {
           src="./memoji.png" alt="" />
         </motion.div>
 
-        <a className={css.email} href="mailto:charagundla.s@northeastern.edu">
-        charagundla.s@northeastern.edu
+        <a className={css.email} href="mailto:sreeram.charagundla@outlook.com">
+        sreeram.charagundla@outlook.com
         </a>
 
         {/* Lower Elements */}
