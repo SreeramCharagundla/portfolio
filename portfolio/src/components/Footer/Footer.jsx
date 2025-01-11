@@ -36,7 +36,7 @@ const Footer = () => {
             amazing together.
           </span>
           <span className="primaryText">
-            Start by <a href="mailto:charagundla.s@northeastern.edu">saying hi</a>
+            Start by <a href="mailto:sreeram.charagundla@infosys.com">saying hi</a>
           </span>
           <span className="secondaryText">
             <a
@@ -45,48 +45,6 @@ const Footer = () => {
               rel="noopener noreferrer"
             >
               <FontAwesomeIcon icon={faLinkedin} />
-            </a>
-            <a
-              href="https://t.me/+17085131828"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <FontAwesomeIcon icon={faTelegram} />
-            </a>
-            <a
-              href="https://x.com/_sreeramc_"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <FontAwesomeIcon icon={faTwitter} />
-            </a>
-            <a
-              href="https://www.snapchat.com/add/sreeram.98?src=QR_CODE"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <FontAwesomeIcon icon={faSnapchat} />
-            </a>
-            <a
-              href="https://discord.com/Sreeram#7283"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <FontAwesomeIcon icon={faDiscord} />
-            </a>
-            <a
-              href="https://www.instagram.com/sreeram__"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <FontAwesomeIcon icon={faInstagram} />
-            </a>
-            <a
-              href="https://www.facebook.com/sreeram.1234/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <FontAwesomeIcon icon={faFacebook} />
             </a>
             <a
               href="https://stackoverflow.com/users/13405910/sreeram"

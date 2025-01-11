@@ -79,14 +79,15 @@
         }
 
         .email {
-            @media (max-width: $sm ) {
-                position: relative;
-                display: none;
+            font-size: 1rem; // Set to a normal size
+            font-weight: normal; // Optional: Ensures it's not bold
+            color: black; // Optional: Black text color
+            text-decoration: none; // Removes underline, if needed
+            
+            @media (max-width: $sm) {
+              font-size: 0.9rem; // Adjust for smaller screens
             }
-            position: absolute;
-            top: 50%;
-            left: 0;
-            color: orange;
-        }
+          }
+          
     }
 }
