@@ -39,7 +39,7 @@ const Header = () => {
           <li><a href="#work">Experience</a></li>
           <li><a href="#portfolio">Portfolio</a></li>
           <li>
-  <a href="https://drive.google.com/file/d/1YvRbhY9Tkw_ttn_1t34TzmimdfkrIoVK/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a>
+  <a href="https://drive.google.com/file/d/1-E2ZL8NXOjpgyFE43knQ-zt-34XLaMwN/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a>
 </li>
 
           {/* <li className={`flexCenter ${css.phone}`}>
