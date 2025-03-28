@@ -51,8 +51,8 @@ const Hero = () => {
           className={css.experience}
         >
           <div>
-            <a className={css.email} href="mailto:sreeram261@yahoo.com">
-              sreeram261@yahoo.com
+            <a className={css.email} href="mailto:sreeram.charagundla@outlook.com">
+              sreeram.charagundla@outlook.com
               <br />
             </a>
           </div>
@@ -63,7 +63,7 @@ const Hero = () => {
             variants={fadeIn("right", "tween", 0.3, 1)}
             className={css.experience}
           >
-            <div className="primaryText">2+</div>
+            <div className="primaryText">3+</div>
             <div className="secondaryText">
               <div>Years Experience</div>
             </div>
